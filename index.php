@@ -130,11 +130,11 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                     <h2 class="section-title text-white" data-aos="zoom-out" data-aos-easing="ease-in-out">Seminars and Training</h2>
                     <div class="row">
                         <div class="col-lg-4 col-md-12">
-                            <h1 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2018</h1>
+                            <h2 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2018</h1>
                             <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Seminar on Network Design and Security and Java and Web Application</h3><br>
                         </div>
                         <div class="col-lg-4 col-md-12">
-                            <h1 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2018</h1>
+                            <h2 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2018</h1>
                             <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Facilitator during the Inspection Trip and Seminar on Fundamentals of Success in the Field of Freelancing & Building Professional Resume and Preparing for Job Interview in Information Technology Industries</h3><br>
                         </div>
                         <div class="col-lg-4 col-md-12">
@@ -152,6 +152,18 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
 						 <div class="col-lg-4 col-md-12">
                             <h2 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2017</h2>
                             <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">ARAPT MS-41/42</h3><br>
+                        </div>
+						<div class="col-lg-4 col-md-12">
+                            <h2 class="text-white" style="font-weight: 600;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2018</h2>
+                            <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Graduated as CDT LTC in Advance ROTC Course</h3><br>
+                        </div>
+						<div class="col-lg-4 col-md-12">
+                            <h2 class="text-white" style="font-weight: 600;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2020</h2>
+                            <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Participated at Impact Hub Manila - Hackathon</h3><br>
+                        </div>
+						<div class="col-lg-4 col-md-12">
+                            <h2 class="text-white" style="font-weight: 600;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">2016</h2>
+                            <h3 class="text-white" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Completed National Service Training Program</h3><br>
                         </div>
                     </div>
                 </div>

@@ -181,12 +181,20 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                     <p class="mb-4 proj-desc">A minimal website that will act as my own personal portfolio. This website is hardcoded by me.</p>
                                 </div>
                                 <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="#!" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">See Live </a>
-
-								</div>
+							</div>
                         </div>
                         <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
                             <div class="react-reveal project-wrapper__image border">
                                 <img src="img/project11.jpg"style="width: 80%">
+                            </div>
+                        </div>
+						 <div class="col-lg-4">
+                            <div class="project-wrapper__text">
+                                <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Basic Calculator</h3>
+                                <div data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
+                                    <p class="mb-4 proj-desc">This is my experiment and the 1st time I make a simple program when I was in first year college using Visual Studio. </p>
+                                </div>
+                                <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="project_files/WindowsApplication2.rar" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" download>Download Software </a>
                             </div>
                         </div>
                         <div class="col-lg-4">

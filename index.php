@@ -197,6 +197,11 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                 <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="project_files/WindowsApplication2.rar" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" download>Download Software </a>
                             </div>
                         </div>
+						<div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
+                            <div class="react-reveal project-wrapper__image border">
+                                <img src="img/nopreview.jpg"style="width: 80%">
+                            </div>
+                        </div>  
                         <div class="col-lg-4">
                             <div class="project-wrapper__text">
                                 <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Bomber Click</h3>

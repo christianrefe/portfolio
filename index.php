@@ -215,21 +215,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                             <div class="react-reveal project-wrapper__image border">
                                 <img src="img/bvsz.png"style="width: 80%">
                             </div>
-                        </div>                        
-                        <div class="col-lg-4">
-                            <div class="project-wrapper__text">
-                                <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">ColorTrans</h3>
-                                <div data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
-                                    <p class="mb-4 proj-desc">This software is made using Visual Studio. This is not just a simple "Hello World". It is one of my experiment about timer and colors. Click download to see it on actual.</p>
-                                </div>
-                                <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="project_files/ColorTrans.zip" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" download>Download Software </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
-                            <div class="react-reveal project-wrapper__image border">
-                                <img src="img/color_trans.jpg"style="width: 80%">
-                            </div>
-                        </div>
+                        </div>                       
                         <div class="col-lg-4">
                             <div class="project-wrapper__text">
                                 <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Xeres</h3>

@@ -323,7 +323,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                             <div class="project-wrapper__text">
                                 <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Cavitech</h3>
                                 <div data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
-                                    <p class="mb-4 proj-desc">This is my team logo when we join in Impact Hub Manila - Hackathon.</p>
+                                    <p class="mb-4 proj-desc">This is my team logo when we join in Impact Hub Manila - Hackathon representing the City of Cavite.</p>
                                 </div>                                
                             </div>
                         </div>

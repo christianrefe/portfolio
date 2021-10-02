@@ -510,16 +510,24 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                     </i>
                 </a>
                 <div class="social-links">
-                    <a href="https://instagram.com/christian.refe" rel="noopener noreferrer" target="_blank" aria-label="instagram">
+                <a href="https://instagram.com/christian.refe" rel="noopener noreferrer" target="_blank" aria-label="instagram">
                         <i class="fa fa-instagram fa-inverse">
 
                         </i>
                     </a>
-                    <a href="https://www.facebook.com/christian.refe" rel="noopener noreferrer" target="_blank" aria-label="facebook">
+                <a href="https://www.facebook.com/christian.refe" rel="noopener noreferrer" target="_blank" aria-label="facebook">
                         <i class="fa fa-facebook fa-inverse">
 
                         </i>
-                    </a>             
+                    </a>
+	        <a href="https://www.linkedin.com/in/christian-ordiales-refe/" rel="noopener noreferrer" target="_blank" aria-label="linkedin">
+                        <i class="fa fa-linkedin fa-inverse">
+                        </i>
+                    </a>
+                <a href="https://github.com/christianrefe" rel="noopener noreferrer" target="_blank" aria-label="github">
+                        <i class="fa fa-github fa-inverse">
+                        </i>
+                    </a>
                 </div>
             <hr>
 		<p class="footer__text">© 2021 - Template developed by <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">Jacobo Martínez</a> and edited by <a href="https://github.com/christianrefe" target="_blank" rel="noopener noreferrer">Christian Refe</a></p>

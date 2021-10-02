@@ -522,7 +522,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                     </a>             
                 </div>
             <hr>
-		    <p class="footer__text">© 2020 - Template developed by <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">Jacobo Martínez</a> and edited by <a href="https://github.com/simonmusmos" target="_blank" rel="noopener noreferrer">Simon Musmos</a></p>
+		<p class="footer__text">© 2021 - Template developed by <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">Jacobo Martínez</a> and edited by <a href="https://github.com/christianrefe" target="_blank" rel="noopener noreferrer">Christian Refe</a></p>
             </div>
         </footer>
         

@@ -196,6 +196,8 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                     <p class="mb-4 proj-desc">This is my experiment and the 1st time I make a simple program when I was in first year college using Visual Studio. </p>
                                 </div>
                                 <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="project_files/BasicCalculator.rar" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" download>Download Software </a>
+				<a target="_blank" class="cta-btn text-color-main cta-btn-view" href="https://github.com/christianrefe/portfolio/tree/main/Basic%20Calculator/WindowsApplication2" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">Source Code</a>
+				    https://github.com/christianrefe/portfolio/tree/main/Basic%20Calculator/WindowsApplication2
                             </div>
                         </div>
 						<div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">

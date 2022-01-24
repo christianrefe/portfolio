@@ -181,6 +181,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                     <p class="mb-4 proj-desc">A minimal website that will act as my own personal portfolio. This website is hardcoded by me.</p>
                                 </div>
                                 <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="#!" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">See Live </a>
+				    <a target="_blank" class="cta-btn text-color-main cta-btn-view" href="https://github.com/christianrefe/portfolio" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">Source Code</a>
 							</div>
                         </div>
                         <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
@@ -216,22 +217,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                 <img src="img/bvsz.png"style="width: 80%">
                             </div>
                         </div>                       
-                        <div class="col-lg-4">
-                            <div class="project-wrapper__text">
-                                <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Xeres</h3>
-                                <div data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
-                                    <p class="mb-4 proj-desc">This is a homemade OS made using Visual Studio. This is a simple OS I used to comply on my school project. It currently have simple functionalities like creating files and folders, and Calculator. Other function is still under development.</p>
-                                </div>
-                                <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="project_files/Xeres.zip" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" download>Download Software </a>
-                                
-                            </div>
-                        </div>
-                        <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
-                            <div class="react-reveal project-wrapper__image border">
-                                <img src="img/os.jpg"style="width: 80%">
-                            </div>
-                        </div>
-                    </div>
+                     </div>
                 </div>
             </div>
         </section>

@@ -181,7 +181,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                     <p class="mb-4 proj-desc">A minimal website that will act as my own personal portfolio. This website is hardcoded by me.</p>
                                 </div>
                                 <a target="_blank" class="cta-btn cta-btn--hero cta-btn-live" href="#!" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">See Live </a>
-				    <a target="_blank" class="cta-btn text-color-main cta-btn-view" href="https://github.com/christianrefe/portfolio/tree/main/personal%website" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">Source Code</a>
+				    <a target="_blank" class="cta-btn text-color-main cta-btn-view" href="https://github.com/christianrefe/portfolio/tree/main/personal%20website" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">Source Code</a>
 							</div>
                         </div>
                         <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">

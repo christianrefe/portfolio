@@ -204,7 +204,21 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                             <div class="react-reveal project-wrapper__image border">
                                 <img src="img/bvsz.png"style="width: 80%">
                             </div>
-                        </div>                       
+                        </div>
+			    <div class="col-lg-4">
+                            <div class="project-wrapper__text">
+                                <h3 class="project-wrapper__text-title projttl" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="100">Core PHP CRUD</h3>
+                                <div data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
+                                    <p class="mb-4 proj-desc">Simple Core PHP CRUD that hard coded by me. This was just my practice about creating a simple CRUD. </p>
+                                </div>
+                            	<a target="_blank" class="cta-btn text-color-main cta-btn-view" href="https://github.com/christianrefe/portfolio/tree/main/crud" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">Source Code</a>
+				</div>
+                        </div>
+                        <div class="col-lg-8" data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-delay="200" style="margin-bottom: 20px;">
+                            <div class="react-reveal project-wrapper__image border">
+                                <img src="img/nopreview.jpg"style="width: 80%">
+                            </div>
+                        </div>                   
                      </div>
                 </div>
             </div>

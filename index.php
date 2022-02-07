@@ -58,18 +58,9 @@
                 }
                 
             }
-            /* @media (max-width: 900px) and (min-width: 768px){
-                #title-hero{
-                    text-align: left;
-                }
-                #hero-btn{
-                    float:left;
-                }
-            } */
+          
             @media (max-width: 992px){
-                /* .proj-desc, .projttl, .cta-live,{
-                    text-align: center;
-                } */
+                
                 .cta-btn-live, .cta-btn-view{
                     float: right;
                     margin-bottom: 15px;
@@ -79,22 +70,16 @@
     </head>
     <body style=" width: 100%;overflow: hidden;">
         <div id="hero" class="jumbotron" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-delay="100" style='width: 100%;'>
-        <!-- <div class="container"> -->
             <div class="row align-items-center h-100" style="margin-left: 0; margin-right: 0; width: 100%">
                 <div class="col-lg-4 col-md-12 col-sm-12 order-1" style="padding:0">
-                    <h1 class="hero-title" id="title-hero" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" style="text-align: left;">Hi! My name is <span class="text-color-main">Christian Refe</span>,<br>I love turning ideas into reality.</h1>
-                    <!-- <p class="hero-cta" id="hero-btn" data-aos="fade-right"data-aos-easing="ease-in-out" data-aos-delay="300">
-                        <a class="cta-btn cta-btn--hero">
-                            Know More
-                        </a>
-                    </p> -->
+                    <h1 class="hero-title" id="title-hero" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200" style="text-align: left;">Hi! My name is <span class="text-color-main">Christian Refe</span>,<br>I love turning ideas into reality.</h1>       
                 </div>
                 <div class="col-lg-8 col-md-12 order-2" style="margin-left: 0; padding: 0" id="hero-img-div">
                     <img src="img/bg-hero.jpg" style="width: 100%">
                 </div>
             </div>
         </div>
-        <!-- </div> -->
+
         <div style="position: absolute; bottom:-630px; background-color: #333; width: 100%; height: 20%; z-index: -200; margin-bottom: -20px;" data-aos="fade-up" data-aos-easing="ease-in-out" style="height: 650px" data-aos-delay="200"></div>
         <section id="about" data-aos="fade-up" data-aos-easing="ease-in-out" style="height: 650px">
             <div class="container">
@@ -412,11 +397,7 @@ doing Freelance Graphics design. Most of the projects were made using Photoshop 
                                 
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 40%"></div>
                             </div><br>
-                            <h2 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Javascript</h2>
-                            <div class="progress" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
-                                
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%"></div>
-                            </div><br>
+                            
                             <h2 class="text-white" style="font-weight: 600" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="400">Photoshop</h2>
                             <div class="progress" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="200">
                                 
